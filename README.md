@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://openjdk.org/)
 [![Maven](https://img.shields.io/badge/Maven-3.6%2B-orange)](https://maven.apache.org/)
 
-一个用于学习 **Netty 核心原理** 的简化版自研网络编程框架。基于 JDK 原生 NIO 从零实现，通过一系列递进的步骤逐步引入网络编程的核心概念，从而深入理解 Netty 内部的关键设计，而不是直接调用 Netty 的 API。
+一个用于学习 **Netty 核心原理** 的简化版网络编程框架。基于 JDK 原生 NIO 从零实现，通过一系列递进的步骤逐步引入网络编程的核心概念，从而深入理解 Netty 内部的关键设计，而不是直接调用 Netty 的 API。
 
 ## 目录
 
